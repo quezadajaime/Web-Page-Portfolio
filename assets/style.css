@@ -54,6 +54,8 @@ Body {
     padding-left: 100px;
   }
 
+
+
   .brightness {
     background-color: white;
     display: inline-block;
@@ -64,8 +66,8 @@ Body {
   }
   
   .project {
-    Margin-bottom: 20px;
-    padding:0;
+    width: 50%;
+    padding-left: 100px;
    }
 
   .twitter,
@@ -80,6 +82,7 @@ Body {
     Padding: 20px;
     Text-align: center;
   }
+
 
  @media screen and( min-width:767px) {
   
